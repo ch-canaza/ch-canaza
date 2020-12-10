@@ -23,6 +23,6 @@ highly experienced building, improving, automating and repairing machinery in th
 	<img src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 	<img src="https://img.shields.io/badge/node%2Ejs-%2362af43.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
 	<img src="https://img.shields.io/badge/react-%2300c4e6.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-	<img src="https://img.shields.io/badge/nextjs-%230071f3.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="NestJS"/>
+	<img src="https://img.shields.io/badge/nextjs-%230071f3.svg?&style=for-the-badge&logo=nest.js&logoColor=white" alt="NestJS"/>
 	<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </details>
