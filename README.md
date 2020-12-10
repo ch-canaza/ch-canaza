@@ -9,7 +9,7 @@ a curious and person and who likes trying to keep learning new stuff to improve 
 
 highly experienced building, improving, automating and repairing machinery in the manufacturing industry through the use of electronic, electrical and mechanical components
 
-** you can reach me on **
+**you can reach me on**
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/ch_canaza)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ch-canaza//)
