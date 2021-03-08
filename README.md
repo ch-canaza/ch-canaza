@@ -5,7 +5,7 @@ A creative full-stack developer and Electromechanic technician from [Colombia ðŸ
 
 currently a Computer Science student.
 
-a curious and person and who likes trying to keep learning new stuff to improve my skillset.
+a curious and creative person who likes learning new stuff to improve my skillset.
 
 highly experienced building, improving, automating and repairing machinery in the manufacturing industry through the use of electronic, electrical and mechanical components
 
